@@ -1,2 +1,2 @@
-# USACO-solutions
-Collection of USACO solutions
+# competitive-programming-solutions
+Collection of competitive programming solutions
